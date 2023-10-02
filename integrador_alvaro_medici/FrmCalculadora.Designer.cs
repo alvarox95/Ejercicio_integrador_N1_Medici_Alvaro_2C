@@ -52,7 +52,7 @@ namespace integrador_Alvaro_Medici
             // 
             LbResultado.AutoSize = true;
             LbResultado.Font = new Font("Segoe UI", 30F, FontStyle.Bold, GraphicsUnit.Point);
-            LbResultado.Location = new Point(194, 46);
+            LbResultado.Location = new Point(228, 55);
             LbResultado.Name = "LbResultado";
             LbResultado.Size = new Size(232, 54);
             LbResultado.TabIndex = 0;
@@ -192,7 +192,7 @@ namespace integrador_Alvaro_Medici
             // 
             lblResultadoOperacion.AutoSize = true;
             lblResultadoOperacion.Font = new Font("Segoe UI", 30F, FontStyle.Bold, GraphicsUnit.Point);
-            lblResultadoOperacion.Location = new Point(225, 33);
+            lblResultadoOperacion.Location = new Point(466, 55);
             lblResultadoOperacion.Name = "lblResultadoOperacion";
             lblResultadoOperacion.Size = new Size(0, 54);
             lblResultadoOperacion.TabIndex = 13;
